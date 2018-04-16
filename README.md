@@ -1,6 +1,6 @@
 # helloworld
 
-# Author: Jason Yang
+# Author: Jason Yang, Kyle Schiess
 
 # Sunday, April 15th
 
