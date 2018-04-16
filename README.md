@@ -1,6 +1,6 @@
 # helloworld
 
-# Author: Jason Yang, Kyle Schiess
+# Author: Jason Yang, Kyle Schiess, karla garcia
 
 # Sunday, April 15th
 
@@ -11,3 +11,4 @@ This README is for a lab in CSC 211. I created a repository using the GitHub Des
 ## About
 
 This repository contains a program that prints "Hello World!" to the command line.
+
