@@ -1,0 +1,33 @@
+commit 6718e4f8399bc1960e1fbe1fa1282d73e4afce96
+Author: kyleschiess <38440047+kyleschiess@users.noreply.github.com>
+Date:   Mon Apr 16 15:48:54 2018 -0400
+
+    Update README.md
+
+commit a1e613641573b741b291f1a9d7530e75ec9b67a2
+Author: Jason Yang <jasonhuayang@gmail.com>
+Date:   Mon Apr 16 15:28:05 2018 -0400
+
+    smalledit
+
+commit 63a762fb644e0b6f5ef9f98ffdb2a6da76c74b71
+Author: Jason Yang <jasonhuayang@gmail.com>
+Date:   Sun Apr 15 18:36:56 2018 -0400
+
+    Helloworld!
+    
+    Prints "Hello World!" to command line.
+
+commit 21b07c69a6b781720759d65c7e34e6472f20ee3d
+Author: Jason Yang <jasonhuayang@gmail.com>
+Date:   Sun Apr 15 18:25:38 2018 -0400
+
+    hello world
+    
+    hello world
+
+commit 79c835c0082ee06f8058c5cc4b7e9b056f6ddf95
+Author: Jason Yang <jasonhuayang@gmail.com>
+Date:   Sun Apr 15 18:14:34 2018 -0400
+
+    Initial commit
